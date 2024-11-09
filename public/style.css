@@ -10,7 +10,7 @@ body {
   border-radius: 15px;
   border: solid rgb(187, 186, 184);
   box-shadow: 0 0 20px rgba(90, 90, 90, 0.781);
-  width: 50vh;
+  width: 61vh;
   height: 30vh;
   margin: auto;
   margin-top: 50px;
@@ -18,9 +18,9 @@ body {
 }
 h1{
   color: #005b72;
-  margin-left: 30%;
-  margin-right: 30%;
-  margin-bottom: 50px;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-bottom: 25px;
   border-bottom: solid #e9f1f8;
   border-bottom-right-radius: solid 5px #005b72;
   text-shadow: 8px 8px 10px #a7a1a1;
@@ -36,7 +36,7 @@ p {
   text-align: left;
   color: #424242;
   font-size: 18px;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 span{
